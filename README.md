@@ -1,6 +1,6 @@
 # Jokinator
 Your #1 Source for Clean Jokes, come see it at 
-https://amiedawn.github.io/jokinator/
+https://jamescostello-dev.github.io/jokinator/
 
 ## Purpose
 * To create a real-world front-end application that our team can showcase to potential employers. We are to use the skills and technologies we have learned over the past six weeks, including deployment, interactivity, client-side storage, responsive design, and polished UI.
@@ -41,7 +41,7 @@ https://amiedawn.github.io/jokinator/
 ![Screenshot](./assets/images/screenshot2.png)
 
 ## Website:
-https://amiedawn.github.io/jokinator/
+https://jamescostello-dev.github.io/jokinator/
 
 ## Future Development
 * Using Twitter as a storage method
